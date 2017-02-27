@@ -1,5 +1,3 @@
-package algorithms;
-
 /* JAVA program to find the median(kth smallest) element using Priority Queue */
 
 
