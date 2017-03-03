@@ -1,3 +1,5 @@
+
+//ALgortihm to print the indices whose sum produce a given num.
 package algorithms;
 
 import java.util.Random;
