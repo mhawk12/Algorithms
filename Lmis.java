@@ -1,7 +1,3 @@
-package algorithms;
-
-
-
 // algorithm to find the longest monotonically increasing sequence in O(N^2) using DP
 
 import java.util.Random;
@@ -19,7 +15,7 @@ public class Lmis {
 		for(int i = 0 ; i< a.length; i++)
 		{
 			a[i] = rand.nextInt(10);
-			len[i] = 1;
+			len[i] = 1; // set the initial lengths to 1
 		}
 		
 		
