@@ -1,7 +1,4 @@
-package algorithms;
-
-
-
+//LCS to print the length of LCS
 import java.util.Random;
 
 public class LCS {
